@@ -3,19 +3,25 @@ class Solution {
         int i=0;
         int j=0;
         int n=nums.length;
-        double avg=Double.NEGATIVE_INFINITY;
-        double avg1=0;
+        double avg=0;
+        // double maxsum=0;
         double sum=0;
+        for(int z=0;z<k;z++){
+            sum+=nums[z];
+        }
+        if(n<=k){
+            return sum/k;
+        }
+        double maxsum=sum;
+        i=0;
+        j=k;
         while(j<n){
+            sum=sum-nums[i];
             sum=sum+nums[j];
-            if(j>=k-1){
-                avg1=sum/k;
-                avg=Math.max(avg,avg1);
-                sum=sum-nums[i];
-                i++;
-            }
+            maxsum=Math.max(sum,maxsum);
+            i++;
             j++;
         }
-        return avg;
+        return maxsum/k;
     }
 }
