@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0205-isomorphic-strings) |
+| [0434-number-of-segments-in-a-string](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0434-number-of-segments-in-a-string) |
 ## Sorting
 |  |
 | ------- |
