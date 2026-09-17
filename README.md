@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0205-isomorphic-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0434-number-of-segments-in-a-string) |
+| [0796-rotate-string](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0796-rotate-string) |
 ## Sorting
 |  |
 | ------- |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0904-fruit-into-baskets) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
