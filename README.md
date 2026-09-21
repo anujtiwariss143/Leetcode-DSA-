@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0152-maximum-product-subarray) |
+| [0219-contains-duplicate-ii](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0904-fruit-into-baskets) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0904-fruit-into-baskets) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0219-contains-duplicate-ii) |
 | [0904-fruit-into-baskets](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0904-fruit-into-baskets) |
 ## String Matching
 |  |
