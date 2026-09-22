@@ -1,11 +1,11 @@
 class Solution {
     public int missingMultiple(int[] nums, int k) {
-        HashMap<Integer,Integer> map=new HashMap<>();
+        HashSet<Integer> set=new HashSet<>();
         for(int num:nums){
-            map.put(num,1);
+            set.add(num);
         }
         int multiple=k;
-        while(map.containsKey(multiple)){
+        while(set.contains(multiple)){
             multiple+=k;
         }
         return multiple;
