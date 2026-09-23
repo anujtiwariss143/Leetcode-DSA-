@@ -60,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0560-subarray-sum-equals-k) |
+## Math
+|  |
+| ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0172-factorial-trailing-zeroes) |
 <!---LeetCode Topics End-->
