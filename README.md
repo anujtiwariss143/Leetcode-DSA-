@@ -64,4 +64,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0172-factorial-trailing-zeroes) |
+| [0728-self-dividing-numbers](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0728-self-dividing-numbers) |
 <!---LeetCode Topics End-->
