@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0904-fruit-into-baskets) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Divide and Conquer
 |  |
@@ -65,4 +66,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0172-factorial-trailing-zeroes) |
 | [0728-self-dividing-numbers](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0728-self-dividing-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 <!---LeetCode Topics End-->
