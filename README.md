@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0904-fruit-into-baskets) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Divide and Conquer
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0016-3sum-closest) |
 | [0229-majority-element-ii](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0229-majority-element-ii) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0014-longest-common-prefix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
