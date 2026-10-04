@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0016-3sum-closest) |
+| [0041-first-missing-positive](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0152-maximum-product-subarray) |
 | [0219-contains-duplicate-ii](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0219-contains-duplicate-ii) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0219-contains-duplicate-ii) |
