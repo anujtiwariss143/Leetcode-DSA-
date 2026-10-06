@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0172-factorial-trailing-zeroes) |
 | [0342-power-of-four](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0342-power-of-four) |
 | [0728-self-dividing-numbers](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0728-self-dividing-numbers) |
+| [1837-sum-of-digits-in-base-k](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/1837-sum-of-digits-in-base-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Bit Manipulation
 |  |
