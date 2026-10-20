@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0904-fruit-into-baskets) |
+| [0922-sort-array-by-parity-ii](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0922-sort-array-by-parity-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/1470-shuffle-the-array) |
 | [1748-sum-of-unique-elements](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/1748-sum-of-unique-elements) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0016-3sum-closest) |
 | [0229-majority-element-ii](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0229-majority-element-ii) |
+| [0922-sort-array-by-parity-ii](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0922-sort-array-by-parity-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0016-3sum-closest) |
 | [0125-valid-palindrome](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0125-valid-palindrome) |
+| [0922-sort-array-by-parity-ii](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0922-sort-array-by-parity-ii) |
 ## Trie
 |  |
 | ------- |
