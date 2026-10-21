@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/1470-shuffle-the-array) |
 | [1748-sum-of-unique-elements](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/1748-sum-of-unique-elements) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0016-3sum-closest) |
 | [0125-valid-palindrome](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0125-valid-palindrome) |
 | [0922-sort-array-by-parity-ii](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0922-sort-array-by-parity-ii) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Trie
 |  |
 | ------- |
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/2778-sum-of-squares-of-special-elements) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
