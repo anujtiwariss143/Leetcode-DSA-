@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0904-fruit-into-baskets) |
 | [0922-sort-array-by-parity-ii](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0922-sort-array-by-parity-ii) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/1470-shuffle-the-array) |
 | [1748-sum-of-unique-elements](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/1748-sum-of-unique-elements) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0263-ugly-number) |
 | [0342-power-of-four](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0342-power-of-four) |
 | [0728-self-dividing-numbers](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0728-self-dividing-numbers) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1837-sum-of-digits-in-base-k](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/1837-sum-of-digits-in-base-k) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
