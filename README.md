@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0342-power-of-four) |
 | [0728-self-dividing-numbers](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0728-self-dividing-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1486-xor-operation-in-an-array](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/1486-xor-operation-in-an-array) |
 | [1837-sum-of-digits-in-base-k](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/1837-sum-of-digits-in-base-k) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0342-power-of-four) |
+| [1486-xor-operation-in-an-array](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/1486-xor-operation-in-an-array) |
 ## Recursion
 |  |
 | ------- |
