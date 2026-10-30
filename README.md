@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/1470-shuffle-the-array) |
 | [1748-sum-of-unique-elements](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/1748-sum-of-unique-elements) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0728-self-dividing-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/1486-xor-operation-in-an-array) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1837-sum-of-digits-in-base-k](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/1837-sum-of-digits-in-base-k) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/3232-find-if-digit-game-can-be-won) |
