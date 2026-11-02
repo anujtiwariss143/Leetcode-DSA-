@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0016-3sum-closest) |
 | [0041-first-missing-positive](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0078-subsets) |
 | [0152-maximum-product-subarray](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0152-maximum-product-subarray) |
 | [0219-contains-duplicate-ii](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0229-majority-element-ii) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0078-subsets) |
 | [0342-power-of-four](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0342-power-of-four) |
 | [1486-xor-operation-in-an-array](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/1486-xor-operation-in-an-array) |
 ## Recursion
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/2149-rearrange-array-elements-by-sign) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
