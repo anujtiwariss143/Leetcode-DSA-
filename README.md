@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0904-fruit-into-baskets) |
 | [1748-sum-of-unique-elements](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/1748-sum-of-unique-elements) |
+| [1796-second-largest-digit-in-a-string](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/1796-second-largest-digit-in-a-string) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0205-isomorphic-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0434-number-of-segments-in-a-string) |
 | [0796-rotate-string](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0796-rotate-string) |
+| [1796-second-largest-digit-in-a-string](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/1796-second-largest-digit-in-a-string) |
 | [3340-check-balanced-string](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/3340-check-balanced-string) |
 ## Sorting
 |  |
