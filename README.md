@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0152-maximum-product-subarray) |
+| [0509-fibonacci-number](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0172-factorial-trailing-zeroes) |
 | [0263-ugly-number](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0263-ugly-number) |
 | [0342-power-of-four](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0728-self-dividing-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/1486-xor-operation-in-an-array) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -151,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0078-subsets) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
