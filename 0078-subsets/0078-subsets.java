@@ -1,17 +1,19 @@
 class Solution {
     public List<List<Integer>> subsets(int[] nums) {
-        int n = nums.length;
-        int p = 1 << n;
-        List<List<Integer>> subs = new ArrayList<>();
-        for (int i = 0; i < p; i++) {
-            List<Integer> list = new ArrayList<>();
-            for (int j = 0; j < n; j++) {
-                if (((i >> j) & 1) == 1) {
-                    list.add(nums[j]);
-                }
-            }
-            subs.add(list);
+        List<List<Integer>> ans = new ArrayList<>();
+        List<Integer> temp = new ArrayList<>();
+        solve(0, nums, temp, ans);
+        return ans;
+    }
+
+    public void solve(int index, int[] nums, List<Integer> temp, List<List<Integer>> ans) {
+        if (index == nums.length) {
+            ans.add(new ArrayList<>(temp));
+            return;
         }
-        return subs;
+        temp.add(nums[index]);
+        solve(index + 1, nums, temp, ans);
+        temp.remove(temp.size() - 1);
+        solve(index + 1, nums, temp, ans);
     }
 }
