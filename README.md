@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3364-minimum-positive-sum-subarray](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/3364-minimum-positive-sum-subarray) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0219-contains-duplicate-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0904-fruit-into-baskets) |
+| [3364-minimum-positive-sum-subarray](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/3364-minimum-positive-sum-subarray) |
 ## String Matching
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/0713-subarray-product-less-than-k) |
+| [3364-minimum-positive-sum-subarray](https://github.com/anujtiwariss143/Leetcode-DSA-/tree/master/3364-minimum-positive-sum-subarray) |
 ## Math
 |  |
 | ------- |
